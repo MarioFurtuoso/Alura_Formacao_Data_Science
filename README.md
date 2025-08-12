@@ -24,9 +24,9 @@ Além disso, neste passo você aprenderá a utilizar técnicas como Regressão L
 
 Venha aprofundar seus conhecimentos com a gente!
 
-- [Curso - Data Science: testando hipóteses](https://cursos.alura.com.br/course/data-science-testando-hipoteses) - [Repositório](): Em Andamento
+- [Curso - Data Science: testando hipóteses](https://cursos.alura.com.br/course/data-science-testando-hipoteses) - [Repositório](https://github.com/MarioFurtuoso/Alura_Curso_Data_Science_testando_hipoteses): Em Andamento
 - [Artigo - Desvendando a Regressão Linear](https://www.alura.com.br/artigos/desvendando-a-regressao-linear) - Em Andamento
-- [Curso - Data Science: testando relações com Regressão Linear](https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear) - [Repositório](): Em Andamento
+- [Curso - Data Science: testando relações com Regressão Linear](https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear) - Repositório: Em Andamento
 
 
 ## 3 - Aplicando Data Science
@@ -39,6 +39,6 @@ Entender o "passado" e “prever o futuro” é algo incrível e sem dúvidas um
 Vamos lá?
 
 
-- [Curso - Data Science: analisando e prevendo séries temporais](https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais) - [Repositório](): Em Andamento
+- [Curso - Data Science: analisando e prevendo séries temporais](https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais) - Repositório: Em Andamento
 - [Artigo - Portfólio em dados: como fazer para se destacar no mercado de Data Science](https://www.alura.com.br/artigos/portfolio-em-dados): Em Andamento
 - [Video - Guia de carreira DATA SCIENCE | #HipstersPontoTube](https://www.youtube.com/watch?v=7KhaiCC3fJQ): Em Andamento
