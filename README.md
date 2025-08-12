@@ -10,8 +10,15 @@ Um dos focos será na utilização da biblioteca Pandas, uma das ferramentas mai
 Que tal mergulhar no mundo dos dados? Vamos nessa!
 
 - [Artigo - O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira](https://www.alura.com.br/artigos/o-que-e-data-science): ✅
-- [Curso - Data Science: explorando e analisando dados](https://cursos.alura.com.br/course/data-science-explorando-analisando-dados) - [Clique Aqui](): Em Andamento
-- [Artigo - Como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados): Em Andamento
+- [Curso - Data Science: explorando e analisando dados](https://cursos.alura.com.br/course/data-science-explorando-analisando-dados): ✅
+    * [01 - Conhecendo os dados](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/01%20-%20Conhecendo%20os%20dados/01_Conhecendo_os_dados.ipynb): ✅
+    * [02 - Analisando os dados](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/02%20-%20Analisando%20os%20dados/02_Analisando_os_dados.ipynb): ✅
+    * [03 - Entendendo os tipos de variáveis](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/03%20-%20Entendendo%20os%20tipos%20de%20variáveis/03_Entendendo_os_tipos_de_variaveis.ipynb): ✅
+    * [04 - Visualizando os dados](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/04%20-%20Visualizando%20os%20dados/04_Visualizando_os_dados.ipynb): ✅
+    * [05 - Ajustando os visuais](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/05%20-%20Ajustando%20os%20visuais/05_Ajustando_os_visuais.ipynb): ✅
+    * [06 - Estatística dos dados](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/06%20-%20Estatística%20dos%20dados/06_Estatística_dos_dados.ipynb): ✅
+    * [Filtro com mais de 19 notas](./Formação%20Data%20Science/Data%20Science%20-%20Explorando%20e%20analisando%20dados/Filtro%20com%20mais%20de%2019%20notas/Filtrando_filmes_com_notas_maiores_que_19.ipynb): ✅
+- [Artigo - Como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados): ✅
 - [Curso - Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python) - [Clique Aqui](): Em Andamento
 
 
